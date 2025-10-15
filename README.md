@@ -26,7 +26,15 @@
 - 💻 **Web Development** → HTML, CSS, JavaScript, PHP, Flutter  
 - 🎨 **UI/UX Design** → Figma, Canva, Design Thinking  
 - ⚙️ **Tools** → Git, GitHub, Visual Studio Code, Arduino IDE  
-- 🌐 **Languages** → Dart, C++, Python, JavaScript  
+- 🌐 **Languages** → Dart, C++, Python, JavaScript
+
+## 🩵 My Learning Journey in Mobile Programming
+
+| No | Minggu ke | Praktikum ke | Topik | Laporan Praktikum | Repository | Pengumpulan Tugas |
+|----|------------|--------------|--------|--------------------|-------------|--------------------|
+| 1 | 01 | 01 | Pengenalan Mobile Programming dan Setup Lingkungan |  |  | |
+| 2 | 01 | 01 | Widget Row dan Column |  |  |  |
+
 
 ---
 
